@@ -14,6 +14,8 @@ A fully functional web application designed to streamline the process of managin
 
 
 
+
+
 **Features**
 
 **User Registration and Login**: Secure signup and login functionality with session and cookie management.
